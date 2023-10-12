@@ -1,1 +1,2 @@
 # CTDMS
+Led the successful development of a data management system for Covid-19 tests, complying with software design and development standards. I implemented a Java desktop application with user-friendly interface and MySQL database, allowing the creation, editing, searching and analysis of patient test data. Highlighting my ability to deliver efficient solutions and meet specific requirements using MVP or MVC design patterns in a critical public health context.
